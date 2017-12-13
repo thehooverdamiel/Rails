@@ -1,0 +1,1 @@
+This is the windows version of the rails tutorial, found at https://www.railstutorial.org/book/beginning. 
